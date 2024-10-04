@@ -1,4 +1,4 @@
-# Iframe token expiration
+# API header tests
 This is a simple app to compare request header information from API calls made directly from the client, as well as making a call to a backend to handle authentication. 
 In this example, Node is being used.
 
